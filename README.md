@@ -15,3 +15,7 @@
 2. From the Wikipedia page on college towns is a list of university towns in the United States which has been copy and pasted into the file university_towns.txt.
 
 3. From Bureau of Economic Analysis, US Department of Commerce, the GDP over time of the United States in current dollars in quarterly intervals, in the file gdplev.xls. For This Project Data Onwards of the year 2000 is considered.
+
+### Method Used to test the Hypothesis:
+
+* SciPy TTest on mean values
